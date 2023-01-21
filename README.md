@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/robmcarrier"><img src="https://api.daily.dev/devcards/c3dded74df434cdabb539c54e81a9068.png?r=b1j" width="400" alt="Robert Carrier's Dev Card"/></a>
+<a href="https://app.daily.dev/robmcarrier"><img src="https://github.com/robmcarrier/robmcarrier/blob/master/devcard.svg" width="400" alt="Robert Carrier's Dev Card"/></a>
